@@ -1,4 +1,4 @@
-package lab_1.part_1;
+package lab1.part_1;
 
 public class Monitor {
     int resolution;

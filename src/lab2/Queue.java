@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Queue {
     private ArrayList<String> strings;
-     int size = -1;
+    int size = -1;
     private int elementsNumber = 0;
 
     Queue(){
@@ -30,7 +30,7 @@ public class Queue {
 
     boolean isFull(){
         return (size != -1 && size == elementsNumber);
-        }
+
     }
 
 }

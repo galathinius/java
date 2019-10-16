@@ -1,4 +1,4 @@
-package lab_1.part_2;
+package lab1.part_2;
 
 public class Student {
     // name, age and mark
